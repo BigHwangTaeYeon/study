@@ -6,6 +6,7 @@
     
 ### SPRING
   - [토비의 스프링](https://github.com/BigHwangTaeYeon/Toby-Spring.git)
+  - [JPA](https://github.com/BigHwangTaeYeon/Toby-Spring.git)
   
 ### 디자인 패턴
   - [GoF(Gang of Four) 디자인 패턴](https://github.com/BigHwangTaeYeon/GoF_Pattern.git)
