@@ -8,18 +8,18 @@
   - [토비의 스프링](https://github.com/BigHwangTaeYeon/Toby-Spring.git)
   
 ### 디자인 패턴
-  [GoF(Gang of Four) 디자인 패턴](https://github.com/BigHwangTaeYeon/GoF_Pattern.git)
+  - [GoF(Gang of Four) 디자인 패턴](https://github.com/BigHwangTaeYeon/GoF_Pattern.git)
   
 ### 네트워크
-  [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
+  - [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
 
 ### 운영체제
-  [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
+  - [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
   
 ### 데이터베이스
-  [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
+  - [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
   
 ### 자료구조
-  [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
+  - [면접을 위한 cs 전공지식 노트](https://github.com/BigHwangTaeYeon/book_cs.git)
 
 ### 알고리즘
