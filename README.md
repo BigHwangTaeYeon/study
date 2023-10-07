@@ -3,7 +3,7 @@
 
 ### JAVA
   - [이펙티브 자바](https://github.com/BigHwangTaeYeon/EffectiveJava.git)
-  <span style="color: #2D3748; background-color:#fff5b1;"> Strong</span>
+    
 ### SPRING
   - [토비의 스프링](https://github.com/BigHwangTaeYeon/Toby-Spring.git)
   
