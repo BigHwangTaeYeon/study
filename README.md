@@ -6,7 +6,8 @@
     
 ### SPRING
   - [백기선 - Spring](https://github.com/BigHwangTaeYeon/spring_back.git)
-  - [김영환 - Spring](https://github.com/BigHwangTaeYeon/spring_kim_beginner.git)
+  - [김영환 - Spring beginner](https://github.com/BigHwangTaeYeon/spring_kim_beginner.git)
+  - [김영환 - Spring advanced](https://github.com/BigHwangTaeYeon/spring_kim_advanced.git)
   - [토비의 스프링](https://github.com/BigHwangTaeYeon/Toby-Spring.git)
   
 ### 디자인 패턴
