@@ -8,7 +8,8 @@
   - [백기선 - Spring](https://github.com/BigHwangTaeYeon/spring_back.git)
   - [김영환 - Spring beginner](https://github.com/BigHwangTaeYeon/spring_kim_beginner.git)
   - [김영환 - Spring advanced](https://github.com/BigHwangTaeYeon/spring_kim_advanced.git)
-  
+  - [김영환 - JPA](https://github.com/BigHwangTaeYeon/kim_jpa.git)
+
 ### 디자인 패턴
   - [GoF(Gang of Four) 디자인 패턴](https://github.com/BigHwangTaeYeon/GoF_Pattern.git)
   
